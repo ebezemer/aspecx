@@ -4,6 +4,7 @@
 * Forgot password displays now Firebase error message, if invalid email is entered
 * Group page now correctly wraps invitation text
 * Several data access optimizations (unsubscribe lists where possible)
+* Android: show splash screen
 
 ###New Features
 * Added settings page for display duration and add to calendar
