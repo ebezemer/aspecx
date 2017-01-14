@@ -1,7 +1,7 @@
 #Release Notes
 ##1.2
 ###Bug Fixes
-* Forgot password displays now Firebase error message, if invalid password is given
+* Forgot password displays now Firebase error message, if invalid email is entered
 * Group page now correctly text wraps invitations
 
 ###New Features
