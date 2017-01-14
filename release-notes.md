@@ -7,4 +7,5 @@
 ###New Features
 * Added settings for display duration and add to calendar
 * Optionally add rating dates to calendar as a reminder
-* Groups can now be renamed. Existing ratings will still show to the user the  group name that existed at the rating time.
+* Groups can now be renamed
+  * Existing ratings will still show to the user the  group name that existed at the rating time.
