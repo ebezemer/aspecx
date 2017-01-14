@@ -6,7 +6,9 @@
 * Several data access optimizations (unsubscribe lists where possible)
 
 ###New Features
-* Added settings for display duration and add to calendar
+* Added settings page for display duration and add to calendar
 * Optionally add rating dates to calendar as a reminder
+ * If option is set Calendar entries are created on group creation (for admin) and on accept invitation (for raters)
 * Groups can now be renamed
   * Existing ratings will still show to the user the  group name that existed at the rating time
+  * Existing calendar entries will not be renamed
