@@ -16,7 +16,7 @@
 * Group page now correctly wraps invitation text
 * Several data access optimizations (unsubscribe lists where possible)
 * Android: show splash screen
-* Android: show link for download app in inivation email
+* Android: show link for download app in invitation email
 
 ###New Features
 * Added settings page for display duration and add to calendar
