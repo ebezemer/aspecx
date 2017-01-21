@@ -7,6 +7,10 @@
 * Removed "ticks" in Dashboard Charts for x and y axis for better readability
 
 ##1.2.2
+###Framework Changes
+* Upgrade to angularfire2 2.0.0.-beta.7
+* Upgrade to Firebase 3.6.5
+
 ###Bug Fixes
 * Forgot password displays now Firebase error message, if invalid email is entered
 * Group page now correctly wraps invitation text
