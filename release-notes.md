@@ -15,6 +15,7 @@ No breaking changes documented, so everything should continue to work
 ###New Features
 * Removed "ticks" in Dashboard Charts for x and y axis for better readability
 * Put Groupname in double quotes ("") in action-sheet for joining groups and joining groups from rejected invitations for better readability
+* List done ratings in reverse order (issue #93)
 
 ##1.2.2
 ###Framework Changes
