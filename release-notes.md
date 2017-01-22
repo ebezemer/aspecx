@@ -22,6 +22,8 @@ No breaking changes documented, so everything should continue to work
 * Upgrade to angularfire2 2.0.0.-beta.7
 * Upgrade to Firebase 3.6.5
 
+No breaking changes documented, so everything should continue to work
+
 ###Bug Fixes
 * Forgot password displays now Firebase error message, if invalid email is entered
 * Group page now correctly wraps invitation text
