@@ -11,6 +11,7 @@ No breaking changes documented, so everything should continue to work
 
 ###Bug Fixes
 * Email addresses are now stored lowercase to always match invitations
+* Put Groupname in double quotes ("") in action-sheet for joining groups and joining groups from rejected invitations for better readability
 
 ###New Features
 * Removed "ticks" in Dashboard Charts for x and y axis for better readability
