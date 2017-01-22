@@ -1,5 +1,13 @@
 #Release Notes
 ##1.2.3
+###Framework Changes
+* Upgrade to ionic 2.2.1
+* Upgrade to ionic/storage 1.1.7
+* Upgrade to ionic-angular 2.0.0-rc.5
+* Upgrade to ionic-/appscripts 1.0.0
+* Upgrade to Firebase 3.6.6
+No breaking changes documented, so everything should continue to work
+
 ###Bug Fixes
 * Email addresses are now stored lowercase to always match invitations
 
