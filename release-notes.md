@@ -7,7 +7,7 @@
 * Upgrade to ionic-/appscripts 1.0.0
 * Upgrade to Firebase 3.6.6
 
-No breaking changes documented, so everything should continue to work
+No relevant breaking changes documented, so everything should continue to work
 
 ###Bug Fixes
 * Email addresses are now stored lowercase to always match invitations
