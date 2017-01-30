@@ -3,7 +3,8 @@
 ###Framework Changes
 * Upgrade to ionic 2.2.1
 * Upgrade to ionic/storage 1.1.7
-* Upgrade to ionic-angular 2.0.0-rc.5
+* Upgrade to ionic-angular 2.0.0   !! Production !!
+* Upgrade to ionic-native 2.4.1
 * Upgrade to ionic-/appscripts 1.0.0
 * Upgrade to Firebase 3.6.6
 
