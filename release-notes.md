@@ -16,7 +16,7 @@ No relevant breaking changes documented, so everything should continue to work
 ###New Features
 * Removed "ticks" in Dashboard Charts for x and y axis for better readability
 * Put Groupname in double quotes ("") in action-sheet for joining groups and joining groups from rejected invitations for better readability
-* List done ratings in reverse order, issue [#93](https://github.com/xamplo/aspecx/issues/93)
+* [#93](https://github.com/xamplo/aspecx/issues/93) List done ratings in reverse order
 
 ##1.2.2
 ###Framework Changes
@@ -29,8 +29,8 @@ No breaking changes documented, so everything should continue to work
 * Forgot password displays now Firebase error message, if invalid email is entered
 * Group page now correctly wraps invitation text
 * Several data access optimizations (unsubscribe lists where possible)
-* Android: show splash screen, fixes [#89](https://github.com/xamplo/aspecx/issues/89)
-* Android: show link for download app in invitation email, fixes [#103](https://github.com/xamplo/aspecx/issues/103)
+* [#89](https://github.com/xamplo/aspecx/issues/89) Android: show splash screen
+* [#103](https://github.com/xamplo/aspecx/issues/103) Android: show link for download app in invitation email
 
 ###New Features
 * Added settings page for display duration and add to calendar
@@ -38,6 +38,6 @@ No breaking changes documented, so everything should continue to work
  * If option is set Calendar entries are created 
   * on group creation for administrator
   * on accept invitation for raters
-* Groups can now be renamed, fixes [#71](https://github.com/xamplo/aspecx/issues/71)
+* [#71](https://github.com/xamplo/aspecx/issues/71) Groups can now be renamed
   * Existing ratings will still show to the user the  group name that existed at the rating time
   * Existing calendar entries will not be renamed
