@@ -12,6 +12,7 @@ No relevant breaking changes documented, so everything should continue to work
 
 ###Bug Fixes
 * Email addresses are now stored lowercase to always match invitations
+* [#104](https://github.com/xamplo/aspecx/issues/104) Add calendar entry without options for non AOSP phones
 
 ###New Features
 * Removed "ticks" in Dashboard Charts for x and y axis for better readability
