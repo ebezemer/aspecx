@@ -14,7 +14,7 @@ New Packaging for Android
 No relevant breaking changes documented, so everything should continue to work
 
 ###Bug Fixes
-* Email addresses are now stored lowercase to always match invitations
+* [#107](https://github.com/xamplo/aspecx/issues/107) Email addresses are now stored lowercase to always match invitations
 * [#104](https://github.com/xamplo/aspecx/issues/104) Add calendar entry without options for non AOSP phones
 
 ###New Features
