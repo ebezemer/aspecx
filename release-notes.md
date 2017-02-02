@@ -1,4 +1,7 @@
 #Release Notes
+##1.2.4
+New Packaging for Android
+
 ##1.2.3
 ###Framework Changes
 * Upgrade to ionic 2.2.1
