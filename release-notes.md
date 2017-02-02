@@ -1,4 +1,8 @@
 #Release Notes
+##1.2.5
+###New Features
+Android: Calendar Entry as all-day event
+
 ##1.2.4
 New Packaging for Android
 
