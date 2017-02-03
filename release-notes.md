@@ -1,4 +1,13 @@
 #Release Notes
+##1.2.6
+###Bug Fixes
+* Removing [disabled] attribute in Edit-Groupname after ionic fix. All attributes but groupname should remain non-editable.
+* Checking for Cordova availabilty before using email or calendar plugins for better web-app support
+
+###New Features
+* Adding userinfo in settings page
+
+
 ##1.2.5
 ###New Features
 Android: Calendar Entry as all-day event
