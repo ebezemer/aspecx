@@ -1,4 +1,7 @@
 #Release Notes
+##1.3.0
+Production Release
+
 ##1.2.8
 ###Bug Fixes
 * Removing [disabled] attribute in Edit-Groupname after ionic fix. All attributes but groupname should remain non-editable.
