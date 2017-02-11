@@ -1,4 +1,8 @@
 #Release Notes
+##1.4.0
+###New Features
+*Administrator can export and mail Rating Statistics for a Group in "Manage Groups"
+
 ##1.3.0
 Production Release
 
