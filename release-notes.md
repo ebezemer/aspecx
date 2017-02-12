@@ -2,6 +2,7 @@
 ##1.4.0
 ###New Features
 * Administrator can export and mail Rating Statistics for a Group in "Manage Groups"
+* iOS: Lightgray color for input-labels for better readability
 
 ##1.3.0
 Production Release
