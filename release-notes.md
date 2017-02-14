@@ -1,4 +1,9 @@
 #Release Notes
+##1.4.2
+###New Features
+* Added Account Page. Users can now update their usernames, email addresses and change their password.
+ * Note: changing the username does currently not update the "invited by" field for invitations
+ 
 ##1.4.0
 ###New Features
 * Administrator can export and mail Rating Statistics for a Group in "Manage Groups"
