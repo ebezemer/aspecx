@@ -2,7 +2,8 @@
 ##1.4.2
 ###New Features
 * Added Account Page. Users can now update their usernames, email addresses and change their password.
- * Note: changing the username does currently not update the "invited by" field for open invitations
+ * Note: changing the username does currently not update the "invited by name" field for open/accpeted/rejected invitations
+ * Note: changing the email address does currently not update the "invited by email" field for open/accepted/rejected invitations
  
 ##1.4.0
 ###New Features
