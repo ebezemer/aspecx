@@ -1,4 +1,16 @@
 #Release Notes
+##1.4.3
+### Framework changes
+* Upgrade to ionic-angular 2.0.1
+* Upgrade to ionic/app-scripts 1.1.3
+* Upgrade to ionic/storage 1.1.9
+* Upgrade to angularfire2 2.0.0.-beta.8
+* Upgrade to firebase 3.6.9
+
+### New Features
+* Change Export Date-Format to be fixed dd.mm.yyyy
+* Change Export Filename to contain Groupname and export date
+
 ##1.4.2
 ###New Features
 * Added Account Page. Users can now update their usernames, email addresses and change their password.
