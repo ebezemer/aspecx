@@ -1,7 +1,7 @@
 #Release Notes
 ##1.4.3
 ### Framework changes
-* Upgrade to angular 2.4.7
+* Upgrade to angular 2.4.8
 * Upgrade to rxjs 5.1.1
 * Upgrade to zone 0.7.2
 * Upgrade to ionic-angular 2.0.1
