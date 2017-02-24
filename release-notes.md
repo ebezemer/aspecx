@@ -1,6 +1,11 @@
 #Release Notes
+## 1.4.4
+### Framework Changes
+* Upgrade to ionic-angular 2.1.0
+* Upgrade to ionic/app-scripts 1.1.4
+
 ##1.4.3
-### Framework changes
+### Framework Changes
 * Upgrade to angular 2.4.8
 * Upgrade to rxjs 5.1.1
 * Upgrade to zone 0.7.2
