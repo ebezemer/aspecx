@@ -1,5 +1,8 @@
 #Release Notes
 ## 1.4.4
+### New Features
+* Added Split Pane Support for Menu. Menu now remains open on screens > 768px.
+
 ### Framework Changes
 * Upgrade to ionic-angular 2.2.0
 * Upgrade to ionic/app-scripts 1.1.4
