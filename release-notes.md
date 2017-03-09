@@ -1,13 +1,15 @@
 #Release Notes
 ## 1.4.4
 ### Framework Changes
-* Upgrade to ionic-angular 2.1.0
+* Upgrade to ionic-angular 2.2.0
 * Upgrade to ionic/app-scripts 1.1.4
+* Upgrade to ionic/storage 2.0.0
+* Upgrade to sw-toolbox 3.4.0
 
 ##1.4.3
 ### Framework Changes
 * Upgrade to angular 2.4.8
-* Upgrade to rxjs 5.1.1
+* Upgrade to rxjs 5.0.1
 * Upgrade to zone 0.7.2
 * Upgrade to ionic-angular 2.0.1
 * Upgrade to ionic/app-scripts 1.1.3
