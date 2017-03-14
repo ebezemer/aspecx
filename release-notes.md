@@ -1,4 +1,4 @@
-#Release Notes
+# Release Notes
 ## 1.4.4
 ### New Features
 * Added Split Pane Support for Menu. Menu now remains open on screens > 768px
