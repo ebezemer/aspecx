@@ -10,7 +10,7 @@
 * Upgrade to ionic/storage 2.0.0
 * Upgrade to sw-toolbox 3.4.0
 
-##1.4.3
+## 1.4.3
 ### Framework Changes
 * Upgrade to angular 2.4.8
 * Upgrade to rxjs 5.0.1
@@ -25,38 +25,38 @@
 * Change Export Date-Format to be fixed dd.mm.yyyy
 * Change Export Filename to contain Groupname and export date
 
-##1.4.2
-###New Features
+## 1.4.2
+### New Features
 * Added Account Page. Users can now update their usernames, email addresses and change their password.
  * Note: changing the username does currently not update the "invited by name" field for open/accpeted/rejected invitations
  * Note: changing the email address does currently not update the "invited by email" field for open/accepted/rejected invitations. 
  
-##1.4.0
-###New Features
+## 1.4.0
+### New Features
 * Administrator can export and mail Rating Statistics for a Group in "Manage Groups"
 * iOS: Lightgray color for input-labels for better readability
 
-##1.3.0
+## 1.3.0
 Production Release
 
-##1.2.8
+## 1.2.8
 ###Bug Fixes
 * Removing [disabled] attribute in Edit-Groupname after ionic fix. All attributes but groupname should remain non-editable.
 * Checking for Cordova availabilty before using email or calendar plugins for better web-app support
 
-###New Features
+### New Features
 * Adding userinfo in settings page
 
 
-##1.2.5
-###New Features
+## 1.2.5
+### New Features
 Android: Calendar Entry as all-day event
 
-##1.2.4
+## 1.2.4
 New Packaging for Android
 
-##1.2.3
-###Framework Changes
+## 1.2.3
+### Framework Changes
 * Upgrade to ionic 2.2.1
 * Upgrade to ionic/storage 1.1.7
 * Upgrade to ionic-angular 2.0.0   !! Production !!
@@ -66,30 +66,30 @@ New Packaging for Android
 
 No relevant breaking changes documented, so everything should continue to work
 
-###Bug Fixes
+### Bug Fixes
 * [#107](https://github.com/xamplo/aspecx/issues/107) Email addresses are now stored lowercase to always match invitations
 * [#104](https://github.com/xamplo/aspecx/issues/104) Add calendar entry without options for non AOSP phones
 
-###New Features
+### New Features
 * Removed "ticks" in Dashboard Charts for x and y axis for better readability
 * Put Groupname in double quotes ("") in action-sheet for joining groups and joining groups from rejected invitations for better readability
 * [#93](https://github.com/xamplo/aspecx/issues/93) List done ratings in reverse order
 
-##1.2.2
-###Framework Changes
+## 1.2.2
+### Framework Changes
 * Upgrade to angularfire2 2.0.0.-beta.7
 * Upgrade to Firebase 3.6.5
 
 No breaking changes documented, so everything should continue to work
 
-###Bug Fixes
+### Bug Fixes
 * Forgot password displays now Firebase error message, if invalid email is entered
 * Group page now correctly wraps invitation text
 * Several data access optimizations (unsubscribe lists where possible)
 * [#89](https://github.com/xamplo/aspecx/issues/89) Android: show splash screen
 * [#103](https://github.com/xamplo/aspecx/issues/103) Android: show link for download app in invitation email
 
-###New Features
+### New Features
 * Added settings page for display duration and add to calendar
 * Optionally add rating dates to calendar as a reminder
  * If option is set Calendar entries are created 
