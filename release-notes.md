@@ -5,6 +5,12 @@
  * Note: changing the username does currently not update the "invited by name" field for open/accpeted/rejected invitations
  * Note: changing the email address does currently not update the "invited by email" field for open/accepted/rejected invitations. 
  
+## 1.4.5
+### New Features
+* Direct Navigation from Groups Page to Ratings Page via Pop-up Menu
+* Slightly shifted data lables for 2nd axis (raters)
+* Temporary fix for centered items
+ 
 ## 1.4.4
 ### New Features
 * Added Split Pane Support for Menu. Menu now remains open on screens > 768px
