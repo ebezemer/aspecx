@@ -9,6 +9,8 @@
 ### New Features
 * Direct Navigation from Groups Page to Ratings Page via Pop-up Menu
 * Slightly shifted data lables for 2nd axis (raters)
+
+### Bug Fixes
 * Temporary fix for centered items
  
 ## 1.4.4
@@ -46,7 +48,7 @@
 Production Release
 
 ## 1.2.8
-###Bug Fixes
+### Bug Fixes
 * Removing [disabled] attribute in Edit-Groupname after ionic fix. All attributes but groupname should remain non-editable.
 * Checking for Cordova availabilty before using email or calendar plugins for better web-app support
 
