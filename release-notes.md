@@ -7,11 +7,12 @@
  
 ## 1.4.5
 ### New Features
-* Direct Navigation from Groups Page to Ratings Page via Pop-up Menu
-* Slightly shifted data lables for 2nd axis (raters)
+* [#122](https://github.com/xamplo/aspecx/issues/122) Direct Navigation from Groups Page to Ratings Page via Pop-up Menu
+* [#118](https://github.com/xamplo/aspecx/issues/118) Slightly shifted data lables for 2nd axis (raters)
 
 ### Bug Fixes
 * Temporary fix for centered items
+* [#75](https://github.com/xamplo/aspecx/issues/75) Changed Text to "Rater with this email is already invited"
  
 ## 1.4.4
 ### New Features
