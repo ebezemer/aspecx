@@ -11,7 +11,7 @@
 
 ### Changes
 * Removed shifting for data labels of 2nd axis
-* Removed navigation menu in Groups-List and showing details page automatically on tapping a group
+* Removed action menu in Groups-List and showing details page automatically on tapping a group
 * Renamed "Manage Groups" Action Menu Items "Edit Aspects" / "Edit Raters" to "Manage Aspects" / "Manage Raters"
  
 ## 1.4.5
