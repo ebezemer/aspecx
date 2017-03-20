@@ -5,6 +5,15 @@
  * Note: changing the username does currently not update the "invited by name" field for open/accpeted/rejected invitations
  * Note: changing the email address does currently not update the "invited by email" field for open/accepted/rejected invitations. 
  
+## 1.4.6
+### New Features
+* Rotating x-axis labels for timeseries charts for better readability
+
+### Changes
+* Removed shifting for data labels of 2nd axis
+* Removed navigation menu in Groups-List and showing details page automatically on tapping a group
+* Renamed "Manage Groups" Action Menu Items "Edit Aspects" / "Edit Raters" to "Manage Aspects" / "Manage Raters"
+ 
 ## 1.4.5
 ### New Features
 * [#122](https://github.com/xamplo/aspecx/issues/122) Direct Navigation from Groups Page to Ratings Page via Pop-up Menu
