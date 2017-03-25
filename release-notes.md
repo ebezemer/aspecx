@@ -5,6 +5,18 @@
  * Note: changing the username does currently not update the "invited by name" field for open/accpeted/rejected invitations
  * Note: changing the email address does currently not update the "invited by email" field for open/accepted/rejected invitations. 
  
+## 1.5.0
+Production Release
+ 
+## 1.4.8
+### Framework Changes
+* Upgrade to ionic-angular 2.3.0
+* Upgrade to ionic/native 2.9.0
+ 
+## 1.4.7
+### Bug Fixes
+* Fix Permission denied for Android Email Attachment 
+ 
 ## 1.4.6
 ### New Features
 * Rotating x-axis labels for timeseries charts for better readability
