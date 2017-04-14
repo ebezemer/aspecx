@@ -1,10 +1,29 @@
 # Release Notes
+
 ## 1.6.1
+### Framework Changes
+* Upgrade to Angular 4.0.0
+* Upgrade to ionic-angular 3.0.1
+* Upgrade to ionic-native 3.4.2
+
+### New Features
+* Smaller bundle size (now 1.8 MB, before 2.9 MB)
+
+**Breaking Changes**
+The ionic-native package 3 is not compatible with version 2. Hence, all native plugins must be tested.
+Keyboard: account, aspect, group, login, rater, register
+File: groups
+SocialSharing: groups, rater, raters
+Calendar: settings, startup, group, inivitation
+Statusbar: startup
+Splashscreen: startup
+
+## 1.6.0
 ### New Features
 * Added Account Page. Users can now update their usernames, email addresses and change their password.
  * Note: changing the username does currently not update the "invited by name" field for open/accpeted/rejected invitations
  * Note: changing the email address does currently not update the "invited by email" field for open/accepted/rejected invitations. 
- 
+
 ## 1.5.0
 Production Release
  
