@@ -10,7 +10,8 @@
 * Smaller bundle size (now 1.8 MB, before 2.9 MB)
 
 **Breaking Changes**
-* The ionic-native package 3 is not compatible with version 2. Hence, all native plugins must be tested.
+
+The ionic-native package 3 is not compatible with version 2. Hence, all native plugins must be tested.
 * Keyboard: account, aspect, group, login, rater, register
 * File: groups
 * SocialSharing: groups, rater, raters
