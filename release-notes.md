@@ -1,5 +1,9 @@
 # Release Notes
 
+## 1.6.2
+### Bug Fixes
+* Fix click-registration-delay of ionic 3.0
+
 ## 1.6.1
 ### Framework Changes
 * Upgrade to Angular 4.0.0
