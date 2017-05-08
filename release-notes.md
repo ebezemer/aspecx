@@ -1,4 +1,9 @@
 # Release Notes
+## 1.6.3
+### Framework Changes
+* Upgrade ionic-angular 3.1.1
+* Upgrade native plugings 3.6.1
+* Upgrade angularefire2 4.0-rc0
 
 ## 1.6.2
 ### Bug Fixes
