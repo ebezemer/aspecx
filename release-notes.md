@@ -2,8 +2,8 @@
 ## 1.6.3
 ### Framework Changes
 * Upgrade to ionic-cli 3.0.0
-* Upgrade to ionic-angular 3.1.1
-* Upgrade to native plugings 3.6.1
+* Upgrade to ionic-angular 3.2.1
+* Upgrade to native plugings 3.8.0
 * Upgrade to angularefire2 4.0-rc0
 
 ## 1.6.2
