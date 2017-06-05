@@ -1,10 +1,11 @@
 # Release Notes
 ## 1.6.3
 ### Framework Changes
-* Upgrade to ionic-cli 3.0.0
-* Upgrade to ionic-angular 3.2.1
-* Upgrade to native plugings 3.8.0
-* Upgrade to angularefire2 4.0-rc0
+* Upgrade to ionic-cli 3.3.0
+* Upgrade to ionic-angular 3.3.0
+* Upgrade to native plugins 3.10.2
+* Upgrade to angularefire2 4.0-rc1
+* Upgrade to firebase 4.1.1
 
 ## 1.6.2
 ### Bug Fixes
