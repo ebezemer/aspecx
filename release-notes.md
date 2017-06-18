@@ -1,4 +1,8 @@
 # Release Notes
+## 1.6.42
+### New Features
+* Logout de-registers push notifications. Logged out users don't receive push notifications anymore.
+
 ## 1.6.4
 ### New Features
 * Adding Push Notifications using FCM (firebase cloud messaging)
