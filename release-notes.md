@@ -4,7 +4,7 @@
 * Adding Push Notifications using FCM (firebase cloud messaging)
  * Notification on new Invitation
  * Notification if a rating "open date" corresponds to the current day. In order to check and notify users in the test environment, a firebase http trigger action must be called https://us-central1-......cloudfunctions.net/onCron.....?key=.......
- * Current limitation: FCM registers a device (not a user). So notifications will be received for any aspecx user, who used that device. NOT the CURRENTLY logged in user. Maybe will have to restrict notifications to the last logged in user.
+ * Current limitation: FCM registers a device (not a user). So notifications will be received for any aspecx user, who used that device. NOT the CURRENTLY logged in user. Could be a feature, because the device owner receives a notification for whatever account he ever used.
  
 ## 1.6.3
 ### Framework Changes
