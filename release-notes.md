@@ -1,4 +1,11 @@
 # Release Notes
+## 1.6.4
+### New Features
+* Adding Push Notifications using FCM (firebase cloud messaging)
+ * Notification on new Invitation
+ * Notification if a rating "open date" corresponds to the current day. In order to check and notify users in the test environment, a firebase http trigger action must be called https://us-central1-......cloudfunctions.net/onCron.....?key=.......
+ * Current limitation: FCM registers a device (not a user). So notifications will be received for any aspecx user, who used that device. NOT the CURRENTLY logged in user. Maybe will have to restrict notifications to the last logged in user.
+ 
 ## 1.6.3
 ### Framework Changes
 * Upgrade to ionic-cli 3.3.0
