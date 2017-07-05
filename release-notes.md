@@ -1,4 +1,15 @@
 # Release Notes
+## 1.6.6
+### New Features
+* Refactored Observable Subscribtions to unsubscribe on logout. Code is more stable, but nothing is visibile to the user
+
+### Bug Fixes
+* [#140](https://github.com/xamplo/aspecx/issues/140) Fixed writing to wrong Firebase node for user-ratings
+* Fixed: clear badge on logout
+
+## 1.6.5
+Test Releae
+
 ## 1.6.42
 ### New Features
 * Logout de-registers push notifications. Logged out users don't receive push notifications anymore.
