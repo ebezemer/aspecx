@@ -1,4 +1,8 @@
 # Release Notes
+## 1.6.61
+### New Features
+* Refactoring Constructor to OnInit, Keyboard on Web
+
 ## 1.6.6
 ### New Features
 * Refactored Observable Subscribtions to unsubscribe on logout. Code is more stable, but nothing is visibile to the user
