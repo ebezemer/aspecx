@@ -1,11 +1,8 @@
 # Release Notes
-## 1.6.61
+## 1.6.6
 ### Changes
 * Refactoring Constructor to OnInit, Keyboard on Web
 * Removed Calendar
-
-## 1.6.6
-### Changes
 * Refactored Observable Subscribtions to unsubscribe on logout. Code is more stable, but nothing is visibile to the user
 
 ### Bug Fixes
