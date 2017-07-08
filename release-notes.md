@@ -2,6 +2,7 @@
 ## 1.6.61
 ### Changes
 * Refactoring Constructor to OnInit, Keyboard on Web
+* Removed Calendar
 
 ## 1.6.6
 ### Changes
