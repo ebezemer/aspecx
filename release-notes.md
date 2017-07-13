@@ -9,6 +9,9 @@
 * [#140](https://github.com/xamplo/aspecx/issues/140) Fixed writing to wrong Firebase node for user-ratings
 * Fixed: clear badge on logout
 
+### Framework Changes
+* Upgrade to ionic-cli 3.5.0
+
 ## 1.6.5
 Test Releae
 
