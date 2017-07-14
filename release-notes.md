@@ -10,7 +10,10 @@
 * Fixed: clear badge on logout
 
 ### Framework Changes
-* Upgrade to ionic-cli 3.5.0
+* Upgrade to ionic-cli 3.5.2
+* Upgrade to ionic-angular 3.5.2
+* Upgrade to ionic/app-scripts 2.0.2
+* Upgrade to angular 4.1.3
 
 ## 1.6.5
 Test Releae
