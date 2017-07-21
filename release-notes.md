@@ -16,7 +16,7 @@
 * Upgrade to angular 4.1.3
 
 ## 1.6.5
-Test Releae
+Test Release
 
 ## 1.6.42
 ### New Features
