@@ -1,7 +1,7 @@
 # Release Notes
 ## 1.8.0
 ### Changes
-* Deleted raters can now be re-invited again
+* [#91](https://github.com/xamplo/aspecx/issues/91)Deleted raters can now be re-invited again
 
 ### Framework Changes
 * Upgrade to ionic-cli 3.6.0
