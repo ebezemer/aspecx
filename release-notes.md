@@ -1,4 +1,17 @@
 # Release Notes
+## 1.8.0
+### Changes
+* Deleted raters can now be re-invited again
+
+### Framework Changes
+* Upgrade to ionic-cli 3.6.0
+* Upgrade to ionic-angular 3.6.0
+* Upgrade to ionic/app-scripts 2.1.3
+* Upgrade to ionic/cli-plugin-cordova 1.5.0
+
+## 1.7.0
+Production Release
+
 ## 1.6.6
 ### Changes
 * Removed Calendar
