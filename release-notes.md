@@ -1,7 +1,11 @@
 # Release Notes
-## 1.8.0
+## 1.7.1
+### Bug Fixes
+* Fixing a problem updating the badge when the app is installed and notification permissions are requested 
+
 ### Changes
-* [#91](https://github.com/xamplo/aspecx/issues/91) Deleted raters can now be re-invited again
+* [#91](https://github.com/xamplo/aspecx/issues/91) Deleted raters can now be re-invited again, this is also a work-around for
+[#144](https://github.com/xamplo/aspecx/issues/144)
 
 ### Framework Changes
 * Upgrade to ionic-cli 3.6.0
