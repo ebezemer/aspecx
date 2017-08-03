@@ -1,4 +1,10 @@
 # Release Notes
+## ?
+### Framework Changes
+* Upgrade to ionic-cli 3.7.0
+* Upgrade to ionic/cli-plugin-cordova 1.6.1
+* Upgrade to ionic/cli-plugin-ionic-angular 1.4.1
+
 ## 1.7.1
 ### Bug Fixes
 * Fixing a problem updating the badge when the app is installed and notification permissions are requested 
