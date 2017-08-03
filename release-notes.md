@@ -1,5 +1,8 @@
 # Release Notes
 ## ?
+### Changes
+* Added text wrap for long group description entries in Groups-, Group-Details-, Dashboard-Screen
+
 ### Framework Changes
 * Upgrade to ionic-cli 3.7.0
 * Upgrade to ionic/cli-plugin-cordova 1.6.1
