@@ -1,12 +1,4 @@
 # Release Notes
-## ?
-### Changes
-* Added text wrap for long group description entries in Groups-, Group-Details-, Dashboard-Screen
-
-### Framework Changes
-* Upgrade to ionic-cli 3.7.0
-* Upgrade to ionic/cli-plugin-cordova 1.6.1
-* Upgrade to ionic/cli-plugin-ionic-angular 1.4.1
 
 ## 1.7.1
 ### Bug Fixes
@@ -15,12 +7,14 @@
 ### Changes
 * [#91](https://github.com/xamplo/aspecx/issues/91) Deleted raters can now be re-invited again, this is also a work-around for
 [#144](https://github.com/xamplo/aspecx/issues/144)
+* Added text wrap for long group description entries in Groups-, Group-Details-, Dashboard-Screen
 
 ### Framework Changes
-* Upgrade to ionic-cli 3.6.0
+* Upgrade to ionic-cli 3.7.0
+* Upgrade to ionic/cli-plugin-cordova 1.6.1
+* Upgrade to ionic/cli-plugin-ionic-angular 1.4.1
 * Upgrade to ionic-angular 3.6.0
 * Upgrade to ionic/app-scripts 2.1.3
-* Upgrade to ionic/cli-plugin-cordova 1.5.0
 
 ## 1.7.0
 Production Release
